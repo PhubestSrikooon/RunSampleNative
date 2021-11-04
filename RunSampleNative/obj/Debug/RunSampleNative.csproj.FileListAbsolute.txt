@@ -1,0 +1,9 @@
+C:\Users\forbf\source\repos\RunSample\RunSampleNative\bin\Debug\RunSampleNative.exe.config
+C:\Users\forbf\source\repos\RunSample\RunSampleNative\bin\Debug\RunSampleNative.exe
+C:\Users\forbf\source\repos\RunSample\RunSampleNative\bin\Debug\RunSampleNative.pdb
+C:\Users\forbf\source\repos\RunSample\RunSampleNative\obj\Debug\RunSampleNative.csproj.AssemblyReference.cache
+C:\Users\forbf\source\repos\RunSample\RunSampleNative\obj\Debug\RunSampleNative.csproj.CoreCompileInputs.cache
+C:\Users\forbf\source\repos\RunSample\RunSampleNative\obj\Debug\RunSampleNative.exe
+C:\Users\forbf\source\repos\RunSample\RunSampleNative\obj\Debug\RunSampleNative.pdb
+C:\Users\forbf\source\repos\RunSample\RunSampleNative\obj\Debug\RunSampleNative.Forms.monitor_process.resources
+C:\Users\forbf\source\repos\RunSample\RunSampleNative\obj\Debug\RunSampleNative.csproj.GenerateResource.cache
