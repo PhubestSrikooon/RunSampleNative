@@ -61,7 +61,7 @@ namespace RunSampleNative
             void entryPoint()
             {
                 Console.Clear();
-                Console.WriteLine("TEST SAMPLE");
+                Console.WriteLine("RunSampleNative");
                 Console.WriteLine($"All files : {fileLength.ToString()}");
                 Console.Write("Real-time Protection turn on? ");
                 string ready = Console.ReadLine();
